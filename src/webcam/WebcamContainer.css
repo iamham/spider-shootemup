@@ -1,0 +1,5 @@
+.webcam-canvas {
+    display: inline-flex;
+    border-color: #00fb36;
+    box-shadow: 0 0 10px #00fb36;
+}

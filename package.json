@@ -1,0 +1,21 @@
+{
+  "name": "shoot-me",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "annyang": "^2.6.0",
+    "jquery.facedetection": "^2.0.2",
+    "lodash": "^4.17.4",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.10",
+    "react-webcam": "^0.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

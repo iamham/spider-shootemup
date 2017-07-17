@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background: black;
+}
+
+.webcam-container {
+  margin-bottom: 10px;
+}
+
+.start-button {
+  cursor: pointer;
+  margin: auto;
+  width: 150px;
+  height: 30px;
+  color: #00fb36;
+  border: 1px solid #00fb36;
+}
